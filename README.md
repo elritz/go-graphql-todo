@@ -2,7 +2,7 @@
   A Go-based GraphQL repository for managing to-do lists using GQLgen Postgres crypto, gqlparser and jwt.
 
 ### What to Expect:
-
+A authenticated graphql endpoint that is capable of CRUD operations for meetups, authorization on resolvers and authentication on the http server.
 
 ### The Tech Stack:
   
